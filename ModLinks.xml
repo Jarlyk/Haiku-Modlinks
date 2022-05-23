@@ -32,11 +32,22 @@
         <Link SHA256="1CA1AF5FBB5B8B51EF1FB0088F98BC723EE24038032459D8F5C615B6ED3D7F6C">
             <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/releases/download/1.0.0.1/Haiku.CoreModdingApi.dll]]>
         </Link>
-        <Dependencies>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/]]>
+        </Repository>
+    </Manifest>
+        <Manifest>
+        <Name>Debug</Name>
+        <Description>Very useful for practising Speedruns</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="11B40F77095B1879806EF967D4648835C6B85F61AED83A33F21F404961F2C578">
+            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.1.1/Haiku.DebugMod.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/]]>
         </Repository>
     </Manifest>
 </ModLinks>
