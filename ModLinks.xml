@@ -17,6 +17,9 @@
         <Dependencies>
             <Dependency>Another mod's name that this mod depends on</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/User/Repo/]]>
+        </Repository>
         <Integrations>
             <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
         </Integrations>
@@ -25,6 +28,26 @@
         </Tags>
     </Manifest>
     -->
+    <Manifest>
+        <Name>Timer Mod</Name>
+        <Description>Useful for Timing Strats</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="135A10E30C9E40D756652C2AB6496268618CDEBB46C8DC952B92B11DC809601C">
+            <![CDATA[https://github.com/Schyvun/Haiku.TimerMod/releases/download/1.0.0.0/Haiku.TimerMod.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Schyvun/Haiku.TimerMod/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Debug</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
     <Manifest>
         <Name>Modding API</Name>
         <Description>Modding API neeeded for all Mods</Description>
@@ -36,6 +59,9 @@
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
         <Manifest>
         <Name>Debug</Name>
@@ -50,5 +76,8 @@
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
