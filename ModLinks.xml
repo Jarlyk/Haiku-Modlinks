@@ -38,9 +38,6 @@
         <Repository>
             <![CDATA[https://github.com/Schyvun/Haiku.GooglePoetry/]]>
         </Repository>
-        <Integrations>
-            <Integration>Debug</Integration>
-        </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
