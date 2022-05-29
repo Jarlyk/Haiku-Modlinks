@@ -40,7 +40,7 @@
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
-        <Tags>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/Schyvun/Haiku.TimerMod/]]>
         </Repository>
@@ -54,7 +54,7 @@
         <Dependencies />
         <Tags>
             <Tag>Library</Tag>
-        <Tags>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/]]>
         </Repository>
@@ -71,7 +71,7 @@
         </Dependencies>
         <Tags>
             <Tag>Utility</Tag>
-        <Tags>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/]]>
         </Repository>
