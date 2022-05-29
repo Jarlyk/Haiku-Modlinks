@@ -29,20 +29,6 @@
     </Manifest>
     -->
     <Manifest>
-        <Name>Google Poetry</Name>
-        <Description>Enjoy Poetry with Google Translate</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="08E82415FD9D6238A7A5D5F71BDADA442F81ECC4558040B6D5EF87BD70DFB93B">
-            <![CDATA[https://github.com/Schyvun/Haiku.GooglePoetry/releases/download/1.0.0.1/Google.Poetry.dll]]>
-        </Link>
-        <Repository>
-            <![CDATA[https://github.com/Schyvun/Haiku.GooglePoetry/]]>
-        </Repository>
-        <Tags>
-            <Tag>Cosmetic</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
         <Name>Timer Mod</Name>
         <Description>Useful for Timing Strats</Description>
         <Version>1.0.0.0</Version>
