@@ -29,15 +29,24 @@
     </Manifest>
     -->
     <Manifest>
-        <Name>Google Poetry</Name>
-        <Description>Enjoy Poetry with Google</Description>
+        <Name>Timer Mod</Name>
+        <Description>Useful for Timing Strats</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="C6B57F8605CFE80EEF6AA936195B5DF04FD729EC7BE295A3D125951A94C1767E">
             <![CDATA[https://github.com/Schyvun/Haiku.GooglePoetry/releases/download/1.0.0.1/Haiku.GooglePoetry.dll]]>
         </Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Schyvun/Haiku.GooglePoetry/]]>
         </Repository>
+        <Integrations>
+            <Integration>Debug</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Timer Mod</Name>
