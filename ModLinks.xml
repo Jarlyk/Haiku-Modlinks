@@ -7,11 +7,6 @@
         <Name>Test Name</Name>
         <Description>Test description</Description>
         <Version>0.0.0.0</Version>
-        Only one of these two
-        <Links>
-            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://linux.link]]></Linux>
-            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://mac.link]]></Mac>
-            <Windows SHA256=Use this to get the hash: "CertUtil -hashfile C:\path\to\file SHA256"><![CDATA[https://windows.link]]></Windows>
         </Links>
             <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
         <Dependencies>
