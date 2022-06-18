@@ -43,9 +43,9 @@
     <Manifest>
         <Name>Timer Mod</Name>
         <Description>Useful for Timing Strats</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="135A10E30C9E40D756652C2AB6496268618CDEBB46C8DC952B92B11DC809601C">
-            <![CDATA[https://github.com/Schyvun/Haiku.TimerMod/releases/download/1.0.0.0/Haiku.TimerMod.dll]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="AF5B6E3CD64C607B7043AA7348E3F49C52251A7C2741055FB634DAB3C3CC3BDB">
+            <![CDATA[https://github.com/Schyvun/Haiku.TimerMod/releases/download/1.0.1.0/Haiku.TimerMod.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
@@ -63,9 +63,9 @@
     <Manifest>
         <Name>Modding API</Name>
         <Description>Modding API neeeded for all Mods</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="1CA1AF5FBB5B8B51EF1FB0088F98BC723EE24038032459D8F5C615B6ED3D7F6C">
-            <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/releases/download/1.0.0.1/Haiku.CoreModdingApi.dll]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="393AB25DDDB372421E71CC3EADCFD5F8EA99979B95BDAA38D6506BAC689735B4">
+            <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/releases/download/1.0.1.0/Haiku.CoreModdingApi.dll]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -78,9 +78,9 @@
         <Manifest>
         <Name>Debug</Name>
         <Description>Very useful for practising Speedruns</Description>
-        <Version>1.0.1.2</Version>
-        <Link SHA256="77ABC2873680357BC55DDF4F6BD2CFB407A6F99AF75598A50A9CB83E473BA27F">
-            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.1.2/Haiku.DebugMod.dll]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="80F6192CA914A3F769E83D86A287C68A22EE16A43B347AC38E588D508EB1B5AD">
+            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.2.0/Haiku.DebugMod.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
