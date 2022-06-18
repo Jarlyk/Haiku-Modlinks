@@ -64,7 +64,7 @@
         <Name>Modding API</Name>
         <Description>Modding API neeeded for all Mods</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="e5d25b65403f243508b9e743b03a66bd0a6778260e6a86ecdd4d6e2d96a0e1f3">
+        <Link SHA256="7C901DED54C708C8E3F268C5DF70519D1C4BBA3D513493D9D7E0297718FD0539">
             <![CDATA[https://github.com/Jarlyk/Haiku.ModdingApi/releases/download/1.0.1.0/Haiku.CoreModdingApi.dll]]>
         </Link>
         <Dependencies />
