@@ -78,9 +78,9 @@
         <Manifest>
         <Name>Debug</Name>
         <Description>Very useful for practising Speedruns</Description>
-        <Version>1.0.5.0</Version>
-        <Link SHA256="4B1E24BBD8C592BADD16096915B26DB452634025857E5F07B3821FF6C5351C68">
-            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.5.0/Haiku.DebugMod.dll]]>
+        <Version>1.0.6.0</Version>
+        <Link SHA256="938DB9F5414B881879890338321F871BEC570CDF906B23E657E5FBE3C555C8BF">
+            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.6.0/Haiku.DebugMod.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
