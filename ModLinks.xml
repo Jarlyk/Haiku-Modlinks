@@ -75,7 +75,7 @@
             <Tag>Library</Tag>
         </Tags>
     </Manifest>
-        <Manifest>
+    <Manifest>
         <Name>Debug</Name>
         <Description>Very useful for practising Speedruns</Description>
         <Version>1.0.7.0</Version>
@@ -87,6 +87,23 @@
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Randomizer</Name>
+        <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
+        <Version>0.3</Version>
+        <Link SHA256="4FBDDBA00FB292265403270688FC3F3DA22B5215818833C266632F6EDF198242">
+            <![CDATA[https://github.com/Jarlyk/Haiku.Rando/releases/download/v0.3/Haiku.Rando.v0.3.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Jarlyk/Haiku.Rando/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
