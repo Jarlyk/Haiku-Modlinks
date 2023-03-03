@@ -97,7 +97,7 @@
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
         <Version>0.4</Version>
         <Link SHA256="7c5aca2c1a8b085d3f4e839f62caf50eb107f7ec09b580b413d2adf480fc563f">
-            <![CDATA[https://github.com/Jarlyk/Haiku.Rando/archive/refs/tags/v0.4.zip]]>
+            <![CDATA[https://github.com/Jarlyk/Haiku.Rando/releases/download/v0.4/Haiku.Rando.v0.4.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
