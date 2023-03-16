@@ -120,4 +120,14 @@
             <Dependency>Modding API</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>Repainter</Name>
+        <Description>Randomizes the colour palette of the game</Description>
+        <Version>1.0.1.0</Version>
+        <Repository>https://github.com/dpinela/Haiku.Repainter</Repository>
+        <Link SHA256="4c63545071a2e39d783a3b3699d39443baaf18530d30216f72dac88e88f01373">https://github.com/dpinela/Haiku.Repainter/releases/download/v1.0.1/Repainter.zip</Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
