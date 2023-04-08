@@ -105,13 +105,13 @@
     <Manifest>
         <Name>RandoMap</Name>
         <Description>Displays reachable rando checks on the in-game map, and can generate helper and spoiler logs</Description>
-        <Version>1.0.0.0</Version>
-        <Repository>https://github.com/dpinela/Haiku.RandoMap</Repository>
-        <Link SHA256="0e61f4b181d904531d31361401923894fcc5f2f8ec3d6f52e1b9b698d1665790">https://github.com/dpinela/Haiku.RandoMap/releases/download/v1.0/RandoMap.zip</Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="4abc6e0d91306f747d68728f1c42a61f14c10769d12ba6fde980a98c039fe239">https://github.com/dpinela/Haiku.RandoMap/releases/download/v1.0.1/RandoMap.zip</Link>
         <Dependencies>
             <Dependency>Randomizer</Dependency>
             <Dependency>Modding API</Dependency>
         </Dependencies>
+        <Repository>https://github.com/dpinela/Haiku.RandoMap</Repository>
     </Manifest>
     <Manifest>
         <Name>Repainter</Name>
