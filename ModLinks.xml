@@ -95,8 +95,8 @@
     <Manifest>
         <Name>Randomizer</Name>
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="4ed61b0bff5a11c6a83b254a9879d1ebaaa40ab70d7e3b946ee9625163269fc6">https://github.com/Jarlyk/Haiku.Rando/releases/download/v1.1/Randomizer.zip</Link>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="594a4075344768e51522a4ee36469674b9962f9e00460a81d52506e90ae3e182">https://github.com/Jarlyk/Haiku.Rando/releases/download/v1.1.1/Randomizer.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
