@@ -78,25 +78,21 @@
     <Manifest>
         <Name>Debug</Name>
         <Description>Very useful for practising Speedruns</Description>
-        <Version>1.0.7.0</Version>
-        <Link SHA256="D63E599BC7047EC1C864943A2A69577961804879C5DF1BD2E3A31BF6AA382CF3">
-            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.0.7.0/Haiku.DebugMod.dll]]>
-        </Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5774a8a25d451da38c6c81e7e1dd43eef43d909b2642a5c628f829064edaaf7a">https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.1.0.0/DebugMod.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/Jarlyk/Haiku.DebugMod/]]>
-        </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Repository>https://github.com/Jarlyk/Haiku.DebugMod/</Repository>
     </Manifest>
     <Manifest>
         <Name>Randomizer</Name>
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="e91ee0d5a92709e0f788640c58af29b0e567526d04024d1025b5dbdc8e38997e">https://github.com/Jarlyk/Haiku.Rando/releases/download/v1.1.2/Randomizer.zip</Link>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="415329c9855b843af6a27ed8ac358e6442118f34537f7a34874d2e7b6bcc06e6">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.0/Randomizer.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
@@ -116,11 +112,11 @@
     <Manifest>
         <Name>Repainter</Name>
         <Description>Randomizes the colour palette of the game</Description>
-        <Version>1.0.1.0</Version>
-        <Repository>https://github.com/dpinela/Haiku.Repainter</Repository>
-        <Link SHA256="4c63545071a2e39d783a3b3699d39443baaf18530d30216f72dac88e88f01373">https://github.com/dpinela/Haiku.Repainter/releases/download/v1.0.1/Repainter.zip</Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="46cf79965cda05d9e6a0a0ceae73607931eacf2fc2f5df009b8d42921be91abf">https://github.com/dpinela/Haiku.Repainter/releases/download/v1.0.2/Repainter.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
+        <Repository>https://github.com/dpinela/Haiku.Repainter</Repository>
     </Manifest>
 </ModLinks>
