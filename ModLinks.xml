@@ -78,8 +78,8 @@
     <Manifest>
         <Name>Debug</Name>
         <Description>Very useful for practising Speedruns</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="5774a8a25d451da38c6c81e7e1dd43eef43d909b2642a5c628f829064edaaf7a">https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.1.0.0/DebugMod.zip</Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="d65a98e497c5eb51ba1916070c2d65011a65a2fcc27e3fc88336e216cca16df4">https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.2.0.0/DebugMod.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
@@ -91,10 +91,11 @@
     <Manifest>
         <Name>Randomizer</Name>
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="2cafaf05ce2d596fa32a7a07858c3ebe0906172ac017b401203179684adab4c4">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.1/Randomizer.zip</Link>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="094967596453020ae05332c6d22152fa8fa3edc5fdf3a042008ed5acb239fced">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.2/Randomizer.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
+            <Dependency>Debug</Dependency>
         </Dependencies>
         <Repository>https://github.com/Jarlyk/Haiku.Rando/</Repository>
     </Manifest>
@@ -112,8 +113,8 @@
     <Manifest>
         <Name>Repainter</Name>
         <Description>Randomizes the colour palette of the game</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="46cf79965cda05d9e6a0a0ceae73607931eacf2fc2f5df009b8d42921be91abf">https://github.com/dpinela/Haiku.Repainter/releases/download/v1.0.2/Repainter.zip</Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="bf6a1a3ed9a89a66f8f22d3f41b5f3597de74e8a3375c95497f5e760dae01618">https://github.com/dpinela/Haiku.Repainter/releases/download/v1.1/Repainter.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
