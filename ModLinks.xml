@@ -150,4 +150,14 @@
         </Dependencies>
         <Repository>https://github.com/dpinela/Haiku.BossHPBars</Repository>
     </Manifest>
+    <Manifest>
+        <Name>InventoryWebTracker</Name>
+        <Description>A browser-based inventory tracker for use with streaming or recording software</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="cd5a7205352171c1ecee3499af0badde0742c3a7a25fa3448068f61f676e2cc5">https://github.com/dpinela/Haiku.InventoryWebTracker/releases/download/v1.0/InventoryWebTracker.zip</Link>
+        <Dependencies>
+            <Dependency>Modding API</Dependency>
+        </Dependencies>
+        <Repository>https://github.com/dpinela/Haiku.InventoryWebTracker</Repository>
+    </Manifest>
 </ModLinks>
