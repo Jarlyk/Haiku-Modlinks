@@ -91,11 +91,12 @@
     <Manifest>
         <Name>Randomizer</Name>
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
-        <Version>2.2.4.0</Version>
-        <Link SHA256="3db9af827853c7e380fb684bd28902a2ad11c53200028eaeb83fb804737bbba8">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.2.4/Randomizer.zip</Link>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="917a0b80ffcf43990aee3fe51946f7738bffa4bb6247ecca604140375e9bce63">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.3/Randomizer.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
             <Dependency>Debug</Dependency>
+            <Dependency>MultiWorldLib</Dependency>
         </Dependencies>
         <Repository>https://github.com/Jarlyk/Haiku.Rando/</Repository>
     </Manifest>
@@ -159,5 +160,13 @@
             <Dependency>Modding API</Dependency>
         </Dependencies>
         <Repository>https://github.com/dpinela/Haiku.InventoryWebTracker</Repository>
+    </Manifest>
+    <Manifest>
+        <Name>MultiWorldLib</Name>
+        <Description>A library for ItemSync and MultiWorld network transmission.</Description>
+        <Version>1.0.0.9</Version>
+        <Link SHA256="cc1b628f51a277e2d3638d08f4cfea3e4f42c757b6b7e93963061af36e95d4db">https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is263-mw122/MultiWorldLib.zip</Link>
+        <Dependencies></Dependencies>
+        <Repository>https://github.com/Shadudev/HollowKnight.MultiWorld</Repository>
     </Manifest>
 </ModLinks>
