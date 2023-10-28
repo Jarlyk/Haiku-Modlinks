@@ -77,9 +77,9 @@
     </Manifest>
     <Manifest>
         <Name>Debug</Name>
-        <Description>Very useful for practising Speedruns</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="d65a98e497c5eb51ba1916070c2d65011a65a2fcc27e3fc88336e216cca16df4">https://github.com/Jarlyk/Haiku.DebugMod/releases/download/1.2.0.0/DebugMod.zip</Link>
+        <Description>Very useful for practising Speedruns and testing things</Description>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="da26dfc204a445f7c37e518d9ba18c2f865c3c1782430ecf7f4e5552ff469513">https://github.com/Jarlyk/Haiku.DebugMod/releases/download/v1.3/DebugMod.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
         </Dependencies>
@@ -91,8 +91,8 @@
     <Manifest>
         <Name>Randomizer</Name>
         <Description>Item and room rando mod; setup via Config that loads by default with F1</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="917a0b80ffcf43990aee3fe51946f7738bffa4bb6247ecca604140375e9bce63">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.3/Randomizer.zip</Link>
+        <Version>2.4.0.0</Version>
+        <Link SHA256="de5e2b2a8020c3c564bb4614b7bd4e18412f8a3e9b59d64960c05825f30f226e">https://github.com/Jarlyk/Haiku.Rando/releases/download/v2.4/Randomizer.zip</Link>
         <Dependencies>
             <Dependency>Modding API</Dependency>
             <Dependency>Debug</Dependency>
